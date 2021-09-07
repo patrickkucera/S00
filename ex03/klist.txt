@@ -1,0 +1,6 @@
+Credentials cache: API:D70AE4BA-B103-4212-9AEE-AFB98E1B5207
+        Principal: pakucera@42LAUSANNE.CH
+
+  Issued                Expires               Principal
+Sep  7 07:25:13 2021  Sep  7 17:25:13 2021  krbtgt/42LAUSANNE.CH@42LAUSANNE.CH
+Sep  7 07:25:15 2021  Sep  7 17:25:13 2021  HTTP/student-storage.42lausanne.ch@42LAUSANNE.CH
